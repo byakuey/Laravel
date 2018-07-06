@@ -21,4 +21,4 @@ Route::get('/prueba', function () {
 
 Route::get('/hola', 'Mensaje@store');
 
-?>
+?> 
